@@ -3,7 +3,7 @@ name: Keep Streamlit App Awake
 on:
   schedule:
     - cron: '0 */9 * * *'
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   ping:
@@ -11,5 +11,6 @@ jobs:
     steps:
       - name: Visit Streamlit App
         run: |
-          curl -sL https://th-statsincreasecalc.streamlit.app/ > /dev/null
-          echo "App pinged successfully at $(date)"
+          curl -I -sL --max-time 30 \
+          -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" \
+          https://th-statsincreasecalc.streamlit.app/
