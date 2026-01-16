@@ -5,117 +5,131 @@ CASTLE_SKINS = {
     "None": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 0.0,
-        "soldier_count": 0
+        "march_size": 0
     },
     "Steam Ark": {
         "hero_atk_base": 4000, "hero_atk_pct": 0.0, "hero_hp_base": 40000, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 20.0, "soldier_hp_per": 0, "soldier_hp_pct": 0.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Cloud Castle": {
         "hero_atk_base": 4000, "hero_atk_pct": 0.0, "hero_hp_base": 40000, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 45.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Cherry Blossom": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Pumpkin Town": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Fantasy Ferris Wheel": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 20.0,
-        "soldier_count": 20
+        "march_size": 20
     },
     "Concerto": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 20
+        "march_size": 20
     },
     "Dreamlike Dance": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Crab Fortress": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 40.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Skybound (League)": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 10.0, "soldier_hp_per": 0, "soldier_hp_pct": 50.0,
-        "soldier_count": 20
+        "march_size": 20
+    },
+    "Mountain Prime ⚡": {
+        "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
+        "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 50.0,
+        "march_size": 0,
+        "active_skill": {"soldier_hp_pct": 30.0}
+    },
+    "Steel Citadel ⚡": {
+        "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
+        "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 35.0,
+        "march_size": 20,
+        "active_skill": {"march_size": 100}
     },
     "Cake Castle": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 20
+        "march_size": 20
     },
     "Nightfall Castle (Nature)": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 20.0, "soldier_hp_per": 0, "soldier_hp_pct": 70.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Tower of Chaos (Horde)": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 30.0, "soldier_hp_per": 0, "soldier_hp_pct": 50.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Cute Egg Fun Castle": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Secluded Valley": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
-    "Shell Castle (Nature)": {
+    "Shell Castle (Nature) ⚡": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 20.0, "soldier_hp_per": 0, "soldier_hp_pct": 20.0,
-        "soldier_count": 0
+        "march_size": 0,
+        "active_skill": {"soldier_hp_pct": 120.0}
     },
     "Temple of Soul": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 10.0, "soldier_hp_per": 0, "soldier_hp_pct": 25.0,
-        "soldier_count": 20
+        "march_size": 20
     },
-    "Blazing Fortress (Horde)": {
+    "Blazing Fortress (Horde) ⚡": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 20.0, "soldier_hp_per": 0, "soldier_hp_pct": 20.0,
-        "soldier_count": 0
+        "march_size": 0,
+        "active_skill": {"soldier_atk_pct": 30.0, "soldier_hp_pct": 60.0}
     },
     "Spooky House": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 20.0, "soldier_hp_per": 0, "soldier_hp_pct": 5.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Fantasy Castle": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Christmas Castle": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 5.0, "soldier_hp_per": 0, "soldier_hp_pct": 30.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Unbeatable Glory": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 15.0, "soldier_hp_per": 0, "soldier_hp_pct": 35.0,
-        "soldier_count": 30
+        "march_size": 30
     },
     "Season Castle": {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 3.0, "soldier_hp_per": 0, "soldier_hp_pct": 25.0,
-        "soldier_count": 15
+        "march_size": 15
     }
 }
 
@@ -129,7 +143,7 @@ default_state = {
     "hero_hp_base": 1563289,
     "hero_hp_pct": 1498.7,
 
-    "soldier_count": 1815,
+    "march_size": 1815,
     "soldier_atk_per": 70,
     "soldier_atk_pct": 846.0,
     "soldier_hp_per": 1015,
@@ -145,7 +159,7 @@ def clear_base_stats():
     st.session_state.soldier_atk_pct = 0.0
     st.session_state.soldier_hp_per = 0
     st.session_state.soldier_hp_pct = 0.0
-    st.session_state.soldier_count = 0
+    st.session_state.march_size = 0
     st.rerun()
 
 for key, value in default_state.items():
@@ -156,14 +170,14 @@ if "upgrade1" not in st.session_state:
     st.session_state.upgrade1 = {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 0.0,
-        "soldier_count": 0,
+        "march_size": 0,
     }
 
 if "upgrade2" not in st.session_state:
     st.session_state.upgrade2 = {
         "hero_atk_base": 0, "hero_atk_pct": 0.0, "hero_hp_base": 0, "hero_hp_pct": 0.0,
         "soldier_atk_per": 0, "soldier_atk_pct": 0.0, "soldier_hp_per": 0, "soldier_hp_pct": 0.0,
-        "soldier_count": 0,
+        "march_size": 0,
     }
 
 # CONFIG
@@ -183,7 +197,7 @@ if not st.session_state.base_stats_done:
     Count. Other stats like Crit, Block, etc are ignored.
     """)
 
-    st.caption("Re: Hero Level Cap - +1 is turned into +3 Soldier Count, +400 Hero ATK, and +4000 Hero HP.")
+    st.caption("Re: Hero Level Cap - +1 is turned into +3 March Size, +400 Hero ATK, and +4000 Hero HP.")
 
     st.header("Base Stats Input")
 
@@ -212,10 +226,10 @@ if not st.session_state.base_stats_done:
         st.session_state.soldier_atk_pct = st.number_input("Soldier Attack Percentage (%)", min_value=0.0, step=0.1, value=st.session_state.soldier_atk_pct)
         st.session_state.soldier_hp_per = st.number_input("Soldier HP per Soldier", min_value=0, step=1, value=st.session_state.soldier_hp_per)
         st.session_state.soldier_hp_pct = st.number_input("Soldier HP Percentage (%)", min_value=0.0, step=0.1, value=st.session_state.soldier_hp_pct)
-        st.session_state.soldier_count = st.number_input("Soldier Count", min_value=0, step=1, value=st.session_state.soldier_count)
+        st.session_state.march_size = st.number_input("March Size", min_value=0, step=1, value=st.session_state.march_size)
 
-    soldier_atk_base = (st.session_state.soldier_atk_per * st.session_state.soldier_count)
-    soldier_hp_base = (st.session_state.soldier_hp_per * st.session_state.soldier_count)
+    soldier_atk_base = (st.session_state.soldier_atk_per * st.session_state.march_size)
+    soldier_hp_base = (st.session_state.soldier_hp_per * st.session_state.march_size)
     hero_atk_total = (st.session_state.hero_atk_base * (1 + st.session_state.hero_atk_pct / 100))
     hero_hp_total = (st.session_state.hero_hp_base * (1 + st.session_state.hero_hp_pct / 100))
     soldier_atk_total = (soldier_atk_base * (1 + st.session_state.soldier_atk_pct / 100))
@@ -244,7 +258,6 @@ else:
         st.session_state.base_stats_done = False
         st.rerun()
 
-
     def apply_castle1():
         selection = st.session_state.castle_search_1
         if selection != "None":
@@ -259,7 +272,7 @@ else:
             st.session_state.u1_s_atk_pct = skin["soldier_atk_pct"]
             st.session_state.u1_shp = skin["soldier_hp_per"]
             st.session_state.u1_s_hp_pct = skin["soldier_hp_pct"]
-            st.session_state.u1_sc = skin["soldier_count"]
+            st.session_state.u1_sc = skin["march_size"]
 
 
     def apply_castle2():
@@ -276,7 +289,7 @@ else:
             st.session_state.u2_sap = skin["soldier_atk_pct"]
             st.session_state.u2_sh = skin["soldier_hp_per"]
             st.session_state.u2_shp = skin["soldier_hp_pct"]
-            st.session_state.u2_sc = skin["soldier_count"]
+            st.session_state.u2_sc = skin["march_size"]
 
 
     def clear_upgrade1():
@@ -297,9 +310,9 @@ else:
 
     def calculate_total(upgrade):
         soldier_atk_base = (st.session_state.soldier_atk_per + upgrade["soldier_atk_per"]) * \
-                           (st.session_state.soldier_count + upgrade["soldier_count"])
+                           (st.session_state.march_size + upgrade["march_size"])
         soldier_hp_base = (st.session_state.soldier_hp_per + upgrade["soldier_hp_per"]) * \
-                          (st.session_state.soldier_count + upgrade["soldier_count"])
+                          (st.session_state.march_size + upgrade["march_size"])
 
         hero_atk = (st.session_state.hero_atk_base + upgrade["hero_atk_base"]) * \
                    (1 + (st.session_state.hero_atk_pct + upgrade["hero_atk_pct"]) / 100)
@@ -323,7 +336,7 @@ else:
             ("soldier_atk_pct", "Soldier ATK %"),
             ("soldier_hp_per", "Soldier HP"),
             ("soldier_hp_pct", "Soldier HP %"),
-            ("soldier_count", "Soldier Count")
+            ("march_size", "March Size")
         ]
         for key, label in display_map:
             val = upgrade.get(key, 0)
@@ -332,13 +345,12 @@ else:
                     parts.append(f"{label}: +{int(val)}%")
                 else:
                     parts.append(f"{label}: +{val:,}")
-        return " | ".join(parts) if parts else "No bonus stats"
-
+        return ", ".join(parts) if parts else "No bonus stats"
 
     base_hero_atk = st.session_state.hero_atk_base * (1 + st.session_state.hero_atk_pct / 100)
     base_hero_hp = st.session_state.hero_hp_base * (1 + st.session_state.hero_hp_pct / 100)
-    base_soldier_atk = st.session_state.soldier_atk_per * st.session_state.soldier_count * (1 + st.session_state.soldier_atk_pct / 100)
-    base_soldier_hp = st.session_state.soldier_hp_per * st.session_state.soldier_count * (1 + st.session_state.soldier_hp_pct / 100)
+    base_soldier_atk = st.session_state.soldier_atk_per * st.session_state.march_size * (1 + st.session_state.soldier_atk_pct / 100)
+    base_soldier_hp = st.session_state.soldier_hp_per * st.session_state.march_size * (1 + st.session_state.soldier_hp_pct / 100)
     total_base_atk = base_hero_atk + base_soldier_atk
     total_base_hp = base_hero_hp + base_soldier_hp
 
@@ -349,19 +361,32 @@ else:
     """)
 
     st.caption("Note: For now, only the legendary (gold) castle skins have templates. More categories will be added in the future (maybe). Attack, HP, "
-               "and Soldier Count from active skills of castle skins are also TBA.")
+               "and March Size from active skills of castle skins are also TBA.")
 
     # CASTLE SEARCH 1
-    skin_options_1 = sorted([k for k in CASTLE_SKINS.keys() if k != "None"])
-    final_options_1 = ["None"] + skin_options_1
+    show_template1 = st.checkbox("Search Castle Skin", key="show_t1")
+    if show_template1:
+        st.selectbox(
+            "⚡ denotes that the castle skin has an active skill that can be translated into ATK or HP.",
+            options=["None"] + sorted([k for k in CASTLE_SKINS.keys() if k != "None"]),
+            key="castle_search_1",
+            on_change=apply_castle1
+        )
+    else:
+        if st.session_state.get("castle_search_1", "None") != "None":
+            clear_upgrade1()
 
-    st.selectbox(
-        "Search Castle Skin to Calculate Gains",
-        options=final_options_1,
-        index=0,
-        key="castle_search_1",
-        on_change=apply_castle1
-    )
+    eff_up1 = st.session_state.upgrade1.copy()
+    active_text1 = ""
+    skin1_data = CASTLE_SKINS.get(st.session_state.get("castle_search_1", "None"), {})
+
+    if "active_skill" in skin1_data:
+        active_bonuses = skin1_data["active_skill"]
+        label1 = format_active_stats(active_bonuses)
+        if st.checkbox(f"⚡ Include Active Skill: {label1}", key="act1"):
+            for k, v in active_bonuses.items():
+                eff_up1[k] += v
+            active_text1 = f" **Active Skill:** `{label1}`"
 
     col1, col2 = st.columns(2)
     with col1:
@@ -380,10 +405,10 @@ else:
         st.session_state.upgrade1["soldier_atk_pct"] = st.number_input("+Soldier ATK %", min_value=0.0, step=0.1, key="u1_s_atk_pct")
         st.session_state.upgrade1["soldier_hp_per"] = st.number_input("+Soldier HP per Soldier", min_value=0, step=1, key="u1_shp")
         st.session_state.upgrade1["soldier_hp_pct"] = st.number_input("+Soldier HP %", min_value=0.0, step=0.1, key="u1_s_hp_pct")
-        st.session_state.upgrade1["soldier_count"] = st.number_input("+Soldier Count", min_value=0, step=1, key="u1_sc")
+        st.session_state.upgrade1["march_size"] = st.number_input("+March Size", min_value=0, step=1, key="u1_sc")
 
     # CALCULATE UPGRADE 1 VALUES
-    t1_atk, t1_hp = calculate_total(st.session_state.upgrade1)
+    t1_atk, t1_hp = calculate_total(eff_up1)
     atk_g1 = t1_atk - total_base_atk
     hp_g1 = t1_hp - total_base_hp
     atk_p1 = (atk_g1 / total_base_atk * 100) if total_base_atk else 0
@@ -412,16 +437,34 @@ else:
         """)
 
         # CASTLE SEARCH 2
-        skin_options_2 = sorted([k for k in CASTLE_SKINS.keys() if k != "None"])
-        final_options_2 = ["None"] + skin_options_2
+        show_template2 = st.checkbox("Search Castle Skin", key="show_t2")
+        if show_template2:
+            st.selectbox(
+                "⚡ denotes that the castle skin has an active skill that can be translated into ATK or HP.",
+                options=["None"] + sorted([k for k in CASTLE_SKINS.keys() if k != "None"]),
+                key="castle_search_2",
+                on_change=apply_castle2
+            )
+        else:
+            if st.session_state.get("castle_search_2", "None") != "None":
+                clear_upgrade2()
 
-        st.selectbox(
-            "Search Castle Skin to Compare",
-            options=final_options_2,
-            index=0,
-            key="castle_search_2",
-            on_change=apply_castle2
-        )
+        eff_up2 = st.session_state.upgrade2.copy()
+        skin2_data = CASTLE_SKINS.get(st.session_state.get("castle_search_2", "None"), {})
+
+        eff_up2 = st.session_state.upgrade2.copy()
+        active_text2 = ""
+        skin2_data = CASTLE_SKINS.get(st.session_state.get("castle_search_2", "None"), {})
+
+        if "active_skill" in skin2_data:
+            active_bonuses = skin2_data["active_skill"]
+            label2 = format_active_stats(active_bonuses)
+            if st.checkbox(f"⚡ Include Active Skill: {label2}", key="act2"):
+                for k, v in active_bonuses.items():
+                    eff_up2[k] += v
+                active_text2 = f"**Active Skill:** `{label2}`"
+
+        t2_atk, t2_hp = calculate_total(eff_up2)
 
         col3, col4 = st.columns(2)
         with col3:
@@ -440,31 +483,35 @@ else:
             st.session_state.upgrade2["soldier_atk_pct"] = st.number_input("+Soldier ATK %", min_value=0.0, step=0.1, key="u2_sap")
             st.session_state.upgrade2["soldier_hp_per"] = st.number_input("+Soldier HP per Soldier", min_value=0, step=1, key="u2_sh")
             st.session_state.upgrade2["soldier_hp_pct"] = st.number_input("+Soldier HP %", min_value=0.0, step=0.1, key="u2_shp")
-            st.session_state.upgrade2["soldier_count"] = st.number_input("+Soldier Count", min_value=0, step=1, key="u2_sc")
+            st.session_state.upgrade2["march_size"] = st.number_input("+March Size", min_value=0, step=1, key="u2_sc")
 
-        t2_atk, t2_hp = calculate_total(st.session_state.upgrade2)
+        t2_atk, t2_hp = calculate_total(eff_up2)
         atk_g2 = t2_atk - total_base_atk
         hp_g2 = t2_hp - total_base_hp
         atk_p2 = (atk_g2 / total_base_atk * 100) if total_base_atk else 0
         hp_p2 = (hp_g2 / total_base_hp * 100) if total_base_hp else 0
 
         # SUMMARIES
-        name1 = st.session_state.castle_search_1
+        name1 = st.session_state.get("castle_search_1", "None")
         up1 = st.session_state.upgrade1
-        title1 = f"{name1}" if name1 != "None" else "Manual Input"
-        stats_text1 = format_active_stats(st.session_state.upgrade1)
+        title1 = f"{name1}" if name1 != "None" else "No Castle Selected"
+        stats_text1 = format_active_stats(up1)
 
-        name2 = st.session_state.castle_search_2
+        name2 = st.session_state.get("castle_search_2", "None")
         up2 = st.session_state.upgrade2
-        title2 = f"{name2}" if name2 != "None" else "Manual Input"
-        stats_text2 = format_active_stats(st.session_state.upgrade2)
+        title2 = f"{name2}" if name2 != "None" else "No Castle Selected"
+        stats_text2 = format_active_stats(up2)
 
         st.divider()
 
         # DISPLAY RESULT
         st.subheader("Comparison Result")
 
-        st.markdown(f"**{title1}** — `{stats_text1}`")
+        combined_text1 = f"**{title1}** — `{stats_text1}`"
+        if active_text1:
+            combined_text1 += f"  \n{active_text1}"
+        st.markdown(combined_text1)
+
         c1, c2 = st.columns(2)
         with c1:
             st.metric("Attack Gain", f"{atk_g1:,.0f}", f"{atk_p1:.2f}%")
@@ -473,7 +520,11 @@ else:
 
         st.write("")
 
-        st.markdown(f"**{title2}** — `{stats_text2}`")
+        combined_text2 = f"**{title2}** — `{stats_text2}`"
+        if active_text2:
+            combined_text2 += f"  \n{active_text2}"
+        st.markdown(combined_text2)
+
         c3, c4 = st.columns(2)
         with c3:
             st.metric("Attack Gain", f"{atk_g2:,.0f}", f"{atk_p2:.2f}%")
